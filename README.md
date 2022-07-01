@@ -1,7 +1,7 @@
 Hi this is my first web portfolio made from php feel free to use it as a starter portfolio.
 
 
-![Alt text](./images/website_banner.png?raw=true "Welcome to my First Web Portfolio")
+![Alt text](./assets/images/website_banner.png?raw=true "Welcome to my First Web Portfolio")
 
 
 ## 🛠 Usage & Set Up
